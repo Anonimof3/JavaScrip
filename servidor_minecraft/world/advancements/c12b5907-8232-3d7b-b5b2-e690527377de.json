@@ -405,6 +405,7 @@
     "criteria": {
       "apple": "2025-04-25 02:30:00 +0000",
       "bread": "2025-04-25 01:50:41 +0000",
+      "cookie": "2025-04-26 02:59:22 +0000",
       "carrot": "2025-04-25 01:47:18 +0000"
     },
     "done": false
@@ -772,6 +773,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_diamond": {
     "criteria": {
       "has_diamond": "2025-04-25 03:32:08 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:recipes/food/ultra_cola": {
+    "criteria": {
+      "has_cola": "2025-04-26 02:43:00 +0000"
     },
     "done": true
   },

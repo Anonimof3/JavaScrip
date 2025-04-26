@@ -422,7 +422,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-04-25 01:53:21 +0000",
-      "bread": "2025-04-25 01:49:32 +0000"
+      "bread": "2025-04-25 01:49:32 +0000",
+      "golden_apple": "2025-04-26 02:51:10 +0000"
     },
     "done": false
   },
@@ -1248,6 +1249,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-04-25 01:54:18 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/ghost_skin_talisman": {
+    "criteria": {
+      "obtain_relic": "2025-04-26 02:57:01 +0000"
     },
     "done": true
   },
