@@ -633,3 +633,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [26Apr2025 02:04:18.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Made OKss12 no longer a server operator]
 [26Apr2025 02:06:08.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
 [26Apr2025 02:06:39.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Tie me to the Mast]
+[26Apr2025 02:09:04.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Sea? Not a Problem]
+[26Apr2025 02:11:38.592] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Kicked by an operator
+[26Apr2025 02:11:38.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
+[26Apr2025 02:11:38.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Kicked Naifu2401: Kicked by an operator]
+[26Apr2025 02:11:38.622] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[26Apr2025 02:12:19.020] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3a5a56f5
+[26Apr2025 02:12:19.027] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu2401[/127.215.109.99:42865] logged in with entity id 27856 at (-2060.5359612976404, 64.0, 318.69999998807907)
+[26Apr2025 02:12:19.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 joined the game
+[26Apr2025 02:14:46.108] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2382, y=31, z=-21} but found not block entity block Block{minecraft:andesite} at location
+[26Apr2025 02:14:46.109] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:andesite} but failed at location BlockPos{x=-2382, y=31, z=-21}
+[26Apr2025 02:14:46.109] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2373, y=29, z=-18} but found not block entity block Block{minecraft:stone} at location
+[26Apr2025 02:14:46.109] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-2373, y=29, z=-18}
+[26Apr2025 02:14:46.109] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2375, y=29, z=-18} but found not block entity block Block{minecraft:cave_air} at location
+[26Apr2025 02:14:46.110] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-2375, y=29, z=-18}
+[26Apr2025 02:14:46.111] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2367, y=35, z=-23} but found not block entity block Block{minecraft:tall_seagrass}[half=upper] at location
+[26Apr2025 02:14:46.111] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:tall_seagrass}[half=upper] but failed at location BlockPos{x=-2367, y=35, z=-23}
+[26Apr2025 02:14:46.111] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2362, y=36, z=-17} but found not block entity block Block{minecraft:kelp_plant} at location
+[26Apr2025 02:14:46.112] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:kelp_plant} but failed at location BlockPos{x=-2362, y=36, z=-17}
+[26Apr2025 02:15:12.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Acquire Hardware]
+[26Apr2025 02:15:24.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Isn't It Iron Pick]
+[26Apr2025 02:15:34.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Mine? Mine? Mine?]
+[26Apr2025 02:16:33.771] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3d5e17f8
+[26Apr2025 02:16:33.776] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.39.216.183:58085] logged in with entity id 48521 at (82.5, 65.0, 98.5)
+[26Apr2025 02:16:33.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[26Apr2025 02:16:33.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Ice and Fire]
+[26Apr2025 02:16:48.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Made cofl3s a server operator]
+[26Apr2025 02:17:48.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Yuri on ice]
+[26Apr2025 02:20:53.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Stone Age]
+[26Apr2025 02:21:17.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Getting an Upgrade]
+[26Apr2025 02:22:25.192] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Disconnected
+[26Apr2025 02:22:25.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[26Apr2025 02:22:25.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Ice Bucket Challenge]
+[26Apr2025 02:24:17.628] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@70bf8c98
+[26Apr2025 02:24:17.634] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.39.216.183:49517] logged in with entity id 119481 at (305.69999998807907, 59.0, 108.68705889848601)
+[26Apr2025 02:24:17.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[26Apr2025 02:25:51.381] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Disconnected
+[26Apr2025 02:25:51.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[26Apr2025 02:36:14.728] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/31300, l='ServerLevel[world]', x=-2545.70, y=66.00, z=308.70] died, message: 'Nitwit was slain by Zombie'
+[26Apr2025 02:37:35.115] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Toolsmith'/31562, l='ServerLevel[world]', x=-2556.70, y=68.00, z=284.30] died, message: 'Toolsmith was slain by Zombie'
+[26Apr2025 02:37:36.117] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/31307, l='ServerLevel[world]', x=-2554.50, y=68.00, z=284.30] died, message: 'Weaponsmith was slain by Zombie'
+[26Apr2025 02:37:41.474] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/31572, l='ServerLevel[world]', x=-2555.57, y=68.00, z=284.30] died, message: 'Villager was slain by Zombie Villager'
