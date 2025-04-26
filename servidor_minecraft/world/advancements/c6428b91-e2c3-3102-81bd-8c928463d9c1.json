@@ -423,7 +423,8 @@
     "criteria": {
       "apple": "2025-04-25 01:53:21 +0000",
       "bread": "2025-04-25 01:49:32 +0000",
-      "golden_apple": "2025-04-26 02:51:10 +0000"
+      "golden_apple": "2025-04-26 02:51:10 +0000",
+      "mushroom_stew": "2025-04-26 03:00:16 +0000"
     },
     "done": false
   },
@@ -454,6 +455,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-04-25 01:53:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-26 03:00:56 +0000"
     },
     "done": true
   },
@@ -598,6 +605,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-04-25 01:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-26 03:06:51 +0000"
     },
     "done": true
   },
@@ -1036,9 +1049,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-26 03:06:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_gold": {
     "criteria": {
       "has_gold_ingot": "2025-04-25 01:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2025-04-26 02:59:59 +0000"
     },
     "done": true
   },
@@ -1228,6 +1253,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_iron": {
+    "criteria": {
+      "has_feather": "2025-04-26 03:06:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/scythe_gold": {
     "criteria": {
       "has_gold_ingot": "2025-04-25 01:54:18 +0000"
@@ -1390,6 +1421,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_wood": {
+    "criteria": {
+      "has_feather": "2025-04-26 03:06:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-04-25 01:54:18 +0000"
@@ -1447,6 +1484,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_iron": {
     "criteria": {
       "has_iron_ingot": "2025-04-25 01:53:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt": {
+    "criteria": {
+      "has_feather": "2025-04-26 03:06:51 +0000"
     },
     "done": true
   },
@@ -1558,6 +1601,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_diamond": {
+    "criteria": {
+      "has_feather": "2025-04-26 03:06:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-04-25 03:04:21 +0000"
@@ -1591,6 +1640,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/glaive_gold": {
     "criteria": {
       "has_gold_ingot": "2025-04-25 01:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-26 03:08:19 +0000"
     },
     "done": true
   },
@@ -1970,6 +2025,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-04-26 03:08:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-04-25 02:12:27 +0000"
@@ -1997,6 +2058,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/hammer_wood": {
     "criteria": {
       "has_wood": "2025-04-25 01:47:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt_diamond": {
+    "criteria": {
+      "has_feather": "2025-04-26 03:06:51 +0000"
     },
     "done": true
   },
@@ -2141,6 +2208,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-04-25 03:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-26 03:06:51 +0000"
     },
     "done": true
   },
