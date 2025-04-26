@@ -1029,7 +1029,9 @@
       "minecraft:forest": "2025-04-25 01:47:11 +0000",
       "minecraft:mountains": "2025-04-25 02:12:46 +0000",
       "minecraft:taiga": "2025-04-25 01:53:06 +0000",
+      "minecraft:snowy_tundra": "2025-04-26 03:26:50 +0000",
       "minecraft:taiga_hills": "2025-04-25 03:49:30 +0000",
+      "minecraft:frozen_river": "2025-04-26 03:27:16 +0000",
       "minecraft:birch_forest": "2025-04-25 03:28:06 +0000",
       "minecraft:warm_ocean": "2025-04-25 04:06:37 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-25 04:06:42 +0000",
@@ -2329,6 +2331,12 @@
   "spartanweaponry:spear": {
     "criteria": {
       "has_spear": "2025-04-25 01:53:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-26 03:29:24 +0000"
     },
     "done": true
   },

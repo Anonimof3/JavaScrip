@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2025-04-26 03:25:04 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/cestus": {
     "criteria": {
       "has_leather": "2025-04-25 03:26:02 +0000"
@@ -1254,6 +1260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-26 03:25:04 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/scythe_gold": {
     "criteria": {
       "has_gold_ingot": "2025-04-25 02:51:43 +0000"
@@ -1877,8 +1889,10 @@
       "minecraft:forest": "2025-04-25 01:47:14 +0000",
       "minecraft:mountains": "2025-04-25 02:12:51 +0000",
       "minecraft:taiga": "2025-04-25 02:12:32 +0000",
+      "minecraft:snowy_tundra": "2025-04-26 03:25:32 +0000",
       "minecraft:taiga_hills": "2025-04-26 02:17:56 +0000",
       "minecraft:birch_forest": "2025-04-25 03:27:47 +0000",
+      "minecraft:snowy_beach": "2025-04-26 03:24:30 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-25 01:45:30 +0000",
       "minecraft:beach": "2025-04-25 01:45:12 +0000",
       "minecraft:river": "2025-04-25 01:45:28 +0000",
@@ -2009,6 +2023,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 02:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-26 03:20:37 +0000"
     },
     "done": true
   },

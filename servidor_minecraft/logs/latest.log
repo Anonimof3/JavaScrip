@@ -731,3 +731,59 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [26Apr2025 03:18:48.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Naifu2401> duerma
 [26Apr2025 03:19:17.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Superag_Games> ZZZZZZZZZZZ
 [26Apr2025 03:19:25.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Naifu2401> xd
+[26Apr2025 03:21:53.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Naifu2401> un pirata se puso de aletoso con un slenderman y se lo papearon
+[26Apr2025 03:22:12.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Naifu2401> ojo
+[26Apr2025 03:22:21.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Naifu2401> yo encontre hielo
+[26Apr2025 03:22:28.579] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1963, y=25, z=-1471} but found not block entity block Block{minecraft:stone} at location
+[26Apr2025 03:22:28.579] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1963, y=25, z=-1471}
+[26Apr2025 03:22:28.579] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1967, y=25, z=-1461} but found not block entity block Block{minecraft:stone} at location
+[26Apr2025 03:22:28.579] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1967, y=25, z=-1461}
+[26Apr2025 03:22:28.580] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1959, y=26, z=-1471} but found not block entity block Block{minecraft:stone} at location
+[26Apr2025 03:22:28.580] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1959, y=26, z=-1471}
+[26Apr2025 03:22:28.580] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1958, y=27, z=-1466} but found not block entity block Block{minecraft:stone} at location
+[26Apr2025 03:22:28.580] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1958, y=27, z=-1466}
+[26Apr2025 03:22:28.681] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1961, y=30, z=-1454} but found not block entity block Block{minecraft:stone} at location
+[26Apr2025 03:22:28.681] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1961, y=30, z=-1454}
+[26Apr2025 03:22:48.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was slain by Fighting Fish
+[26Apr2025 03:22:59.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Naifu2401> a la vrg
+[26Apr2025 03:23:04.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Naifu2401> 5k metricos
+[26Apr2025 03:23:24.080] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1724, y=16, z=-1731} but found not block entity block Block{minecraft:stone} at location
+[26Apr2025 03:23:24.081] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1724, y=16, z=-1731}
+[26Apr2025 03:23:26.176] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1717, y=24, z=-1748} but found not block entity block Block{minecraft:stone} at location
+[26Apr2025 03:23:26.176] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1717, y=24, z=-1748}
+[26Apr2025 03:23:30.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Naifu2401> nel
+[26Apr2025 03:23:39.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Naifu2401> duele mas la distancia de la muerte
+[26Apr2025 03:23:53.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Naifu2401> lo dijiste tu no io
+[26Apr2025 03:23:57.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Naifu2401: Teleported Naifu2401 to -4631.5, 63.5, -2130.5]
+[26Apr2025 03:24:04.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was slain by Fighting Fish
+[26Apr2025 03:24:08.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Naifu2401> hppp
+[26Apr2025 03:24:19.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Naifu2401> esta en el agua estaba bug con el barco
+[26Apr2025 03:24:27.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Naifu2401: Teleported Naifu2401 to -4634.5, 61.5, -2131.5]
+[26Apr2025 03:25:13.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Naifu2401> vamo a ser yuri en el hielo
+[26Apr2025 03:25:31.641] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4855, y=0, z=-2161} but found not block entity block Block{minecraft:bedrock} at location
+[26Apr2025 03:25:31.641] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4855, y=0, z=-2161}
+[26Apr2025 03:25:31.685] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4855, y=0, z=-2150} but found not block entity block Block{minecraft:bedrock} at location
+[26Apr2025 03:25:31.685] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4855, y=0, z=-2150}
+[26Apr2025 03:25:31.685] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4853, y=0, z=-2145} but found not block entity block Block{minecraft:bedrock} at location
+[26Apr2025 03:25:31.685] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4853, y=0, z=-2145}
+[26Apr2025 03:25:31.739] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4859, y=0, z=-2143} but found not block entity block Block{minecraft:bedrock} at location
+[26Apr2025 03:25:31.739] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4859, y=0, z=-2143}
+[26Apr2025 03:25:31.739] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4858, y=0, z=-2143} but found not block entity block Block{minecraft:bedrock} at location
+[26Apr2025 03:25:31.739] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4858, y=0, z=-2143}
+[26Apr2025 03:25:31.739] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4855, y=0, z=-2142} but found not block entity block Block{minecraft:bedrock} at location
+[26Apr2025 03:25:31.742] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-4855, y=0, z=-2142}
+[26Apr2025 03:25:57.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Naifu2401> me da 110 de velocidad en el hielo
+[26Apr2025 03:26:07.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Naifu2401> y puedo derribar gente
+[26Apr2025 03:26:22.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Naifu2401> drangon de hielo te interesa?
+[26Apr2025 03:26:37.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Naifu2401> si creo
+[26Apr2025 03:26:50.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Superag_Games to Naifu2401]
+[26Apr2025 03:27:06.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Naifu2401> esta muerto xD
+[26Apr2025 03:27:29.421] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Disconnected
+[26Apr2025 03:27:29.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[26Apr2025 03:27:41.969] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Timed out
+[26Apr2025 03:27:41.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
+[26Apr2025 03:28:37.010] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4d1c73e8
+[26Apr2025 03:28:37.019] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:43741] logged in with entity id 398174 at (-4893.402318477631, 64.62859995394349, -2450.619566321373)
+[26Apr2025 03:28:37.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[26Apr2025 03:29:05.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[26Apr2025 03:29:29.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
