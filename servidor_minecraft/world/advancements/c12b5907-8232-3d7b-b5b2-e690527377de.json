@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-04-27 02:13:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/dagger_wood": {
     "criteria": {
       "has_wood": "2025-04-25 01:50:08 +0000"
@@ -514,9 +520,16 @@
       "minecraft:skeleton": "2025-04-25 03:05:04 +0000",
       "minecraft:spider": "2025-04-25 03:04:46 +0000",
       "minecraft:creeper": "2025-04-25 03:08:29 +0000",
+      "minecraft:stray": "2025-04-27 02:13:23 +0000",
       "minecraft:zombie": "2025-04-25 03:04:48 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-04-27 02:21:04 +0000"
+    },
+    "done": true
   },
   "spartanweaponry:recipes/spartanweaponry.basic/pike_iron": {
     "criteria": {
@@ -2097,6 +2110,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-04-27 02:14:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-04-25 03:26:02 +0000"
@@ -2148,6 +2167,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/spear_stone": {
     "criteria": {
       "has_cobblestone": "2025-04-25 01:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-04-27 02:21:04 +0000"
     },
     "done": true
   },
@@ -2322,6 +2347,12 @@
   "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-04-25 02:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-27 02:21:04 +0000"
     },
     "done": true
   },

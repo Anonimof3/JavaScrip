@@ -636,3 +636,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [27Apr2025 01:30:32.062] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/19753, l='ServerLevel[world]', x=-4778.45, y=104.00, z=-2773.43]
 [27Apr2025 02:10:26.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has completed the challenge [The Bigger They Are...]
 [27Apr2025 02:13:23.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Suit Up]
+[27Apr2025 02:14:30.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has completed the challenge [Rude Awakening]
+[27Apr2025 02:17:40.698] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Butcher'/57473, l='ServerLevel[world]', x=-5588.41, y=68.00, z=-3087.95] died, message: 'Butcher was frozen by Ice Dragon'
+[27Apr2025 02:20:15.897] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/57646, l='ServerLevel[world]', x=-5540.51, y=72.42, z=-3067.33] died, message: 'Villager was turned to ice by Ice Dragon'
+[27Apr2025 02:20:17.000] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Leatherworker'/57476, l='ServerLevel[world]', x=-5540.12, y=72.84, z=-3062.47] died, message: 'Leatherworker was turned to ice by Ice Dragon'
+[27Apr2025 02:20:17.697] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/57644, l='ServerLevel[world]', x=-5538.30, y=72.38, z=-3067.70] died, message: 'Villager was turned to ice by Ice Dragon'
+[27Apr2025 02:20:52.698] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/57475, l='ServerLevel[world]', x=-5519.81, y=76.81, z=-3075.18] died, message: 'Villager was turned to ice by Ice Dragon'
+[27Apr2025 02:23:14.908] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Timed out
+[27Apr2025 02:23:14.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
+[27Apr2025 02:23:14.998] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
