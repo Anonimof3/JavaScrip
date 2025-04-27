@@ -634,3 +634,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [27Apr2025 01:27:56.223] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/19353, l='ServerLevel[world]', x=-4716.09, y=74.00, z=-2692.70]
 [27Apr2025 01:28:15.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Dragonslayer]
 [27Apr2025 01:30:32.062] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/19753, l='ServerLevel[world]', x=-4778.45, y=104.00, z=-2773.43]
+[27Apr2025 02:10:26.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has completed the challenge [The Bigger They Are...]
+[27Apr2025 02:13:23.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Suit Up]
