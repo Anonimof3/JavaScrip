@@ -628,3 +628,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [27Apr2025 01:13:54.712] [Server thread/INFO] [org.valkyrienskies.core.networking.UdpServerImpl/]: By disabling UDP this warning shall not be printed anymore.
 [27Apr2025 01:21:02.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Superag_Games to Naifu2401]
 [27Apr2025 01:22:03.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Superag_Games> Naifu2401
+[27Apr2025 01:22:56.310] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Disconnected
+[27Apr2025 01:22:56.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[27Apr2025 01:27:56.222] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/19352, l='ServerLevel[world]', x=-4716.09, y=74.00, z=-2692.70]
+[27Apr2025 01:27:56.223] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/19353, l='ServerLevel[world]', x=-4716.09, y=74.00, z=-2692.70]
+[27Apr2025 01:28:15.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Dragonslayer]
+[27Apr2025 01:30:32.062] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/19753, l='ServerLevel[world]', x=-4778.45, y=104.00, z=-2773.43]
