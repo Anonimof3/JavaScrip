@@ -1404,15 +1404,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-04-26 02:18:16 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/rapier_iron": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 02:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-26 02:18:16 +0000"
     },
     "done": true
   },
@@ -1476,15 +1476,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt": {
-    "criteria": {
-      "has_feather": "2025-04-26 03:00:17 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_iron": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 02:15:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt": {
+    "criteria": {
+      "has_feather": "2025-04-26 03:00:17 +0000"
     },
     "done": true
   },
@@ -1650,15 +1650,15 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-04-26 02:15:24 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/katana_iron": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 02:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-26 02:15:24 +0000"
     },
     "done": true
   },
@@ -1886,11 +1886,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_mountains": "2025-04-27 01:17:20 +0000",
       "minecraft:forest": "2025-04-25 01:47:14 +0000",
       "minecraft:mountains": "2025-04-25 02:12:51 +0000",
       "minecraft:taiga": "2025-04-25 02:12:32 +0000",
       "minecraft:snowy_tundra": "2025-04-26 03:25:32 +0000",
       "minecraft:taiga_hills": "2025-04-26 02:17:56 +0000",
+      "minecraft:frozen_river": "2025-04-27 01:17:39 +0000",
       "minecraft:birch_forest": "2025-04-25 03:27:47 +0000",
       "minecraft:snowy_beach": "2025-04-26 03:24:30 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-25 01:45:30 +0000",
